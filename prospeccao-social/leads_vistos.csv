@@ -412,7 +412,7 @@ ferosao.com.br|websearch|2026-08-31|2026-09-21
 metalurgicatwo.com.br|websearch|2026-08-31|2026-08-31
 usi.br (Usinagem Brasil/Grupo Pazzo, Ribeirão Preto - não confundir com usibr.com.br/Usibras)|websearch|2026-08-31|2026-08-31
 ferrusmol.com.br|websearch|2026-08-31|2026-08-31
-hokkaidoplastics.com.br|websearch|2026-08-31|2026-10-15
+hokkaidoplastics.com.br|websearch|2026-08-31|2026-10-25
 Moinho São Jorge 5G S/A (sem domínio próprio confirmado)|websearch|2026-08-31|2026-08-31
 trzfood.com.br|websearch|2026-08-31|2026-09-21
 cafecanecao.com.br|websearch|2026-08-31|2026-10-05
@@ -553,7 +553,7 @@ galmeta.com.br|websearch|2026-09-08|2026-10-05
 rametec.com.br|websearch|2026-09-08|2026-09-14
 multigalva (sem site confirmado)|websearch|2026-09-08|2026-09-08
 jundia.com.br|websearch|2026-09-09|2026-09-09
-fuchs.com.br (unidade Itupeva)|websearch|2026-09-09|2026-09-09
+fuchs.com.br (unidade Itupeva)|websearch|2026-09-09|2026-10-25
 pancremo.com.br|websearch|2026-09-09|2026-09-09
 lifeco.com.br|websearch|2026-09-09|2026-09-09
 Biofaz Juice Ltda (Grupo Biofaz, Vinhedo, sem dominio proprio confirmado)|websearch|2026-09-09|2026-09-09
@@ -851,7 +851,7 @@ Frigorífico Rey Charques (sem domínio próprio confirmado)|websearch|2026-10-0
 Frigorífico Frisanta (sem domínio próprio confirmado)|websearch|2026-10-04|2026-10-04
 canaalimentos.com.br|websearch|2026-10-04|2026-10-04
 bebidasipiranga.com.br|websearch|2026-10-04|2026-10-04
-nutricin.com.br|websearch|2026-10-04|2026-10-04
+nutricin.com.br|websearch|2026-10-04|2026-10-25
 Roiam Indústria de Produtos Alimentícios (sem domínio próprio confirmado)|websearch|2026-10-04|2026-10-04
 legadousinagem.com.br|websearch|2026-10-05|2026-10-05
 contrests.com.br|websearch|2026-10-05|2026-10-05
@@ -967,7 +967,7 @@ Clarios Brasil Servicos Ltda (Heliar) - Sorocaba/SP - clarios.com|websearch|2026
 villaresmetals.com.br|websearch|2026-10-15|2026-10-15
 thyssenkrupp Metalúrgica Campo Limpo (Campo Limpo Paulista)|websearch|2026-10-15|2026-10-15
 Schaeffler do Brasil (planta Sorocaba)|websearch|2026-10-15|2026-10-15
-tekniagroup.com (Teknia Jacareí)|websearch|2026-10-15|2026-10-15
+tekniagroup.com (Teknia Jacareí)|websearch|2026-10-15|2026-10-25
 ampri.com.br|websearch|2026-10-15|2026-10-15
 BorgWarner (planta Itatiba)|websearch|2026-10-15|2026-10-15
 normadin.com.br (Parts & Tools Ribeirão Preto)|websearch|2026-10-15|2026-10-15
@@ -983,7 +983,7 @@ BraziPane Indústria de Pães (Mooca/SP - sem dado verificável, descartado)|web
 CJ do Brasil CheilJedang (Piracicaba - insumo ração animal, fora do ICP, não usado)|websearch|2026-10-15|2026-10-15
 GWM Brasil (Iracemápolis/SP) - Márcio Alfonso, Diretor de Produção|websearch|2026-10-16|2026-10-16
 BYD do Brasil Ltda (Campinas/SP, chassis de ônibus elétricos)|websearch|2026-10-16|2026-10-16
-Toyota do Brasil Ltda (2ª fábrica Sorocaba/SP) - Evandro Maggio, Presidente|websearch|2026-10-16|2026-10-16
+Toyota do Brasil Ltda (2ª fábrica Sorocaba/SP) - Evandro Maggio, Presidente|websearch|2026-10-16|2026-10-25
 Frasle Mobility Sorocaba Ltda (ex-Jurid, Sorocaba/SP)|websearch|2026-10-17|2026-10-17
 PHINIA Delphi Brasil Ltda (Piracicaba/SP) - Giovani Benato, Diretor-Geral|websearch|2026-10-17|2026-10-17
 Mubea do Brasil Ltda (Taubaté/SP)|websearch|2026-10-17|2026-10-17
@@ -1024,3 +1024,9 @@ Dana Incorporated do Brasil Ltda (Divisão Brevini, unidade Limeira/SP) - Luis G
 Prometeon Tyre Group Indústria Brasil Ltda (ex-Pirelli/TP Industrial, Santo André/SP)|websearch|2026-10-24|2026-10-24
 Aernnova Aerospace do Brasil Ltda (São José dos Campos/SP) - sem decisor/canal confiável, descartado|websearch|2026-10-24|2026-10-24
 Scania Latin America (planta São Bernardo do Campo/SP) - sem decisor/canal confiável, descartado|websearch|2026-10-24|2026-10-24
+forvia.com (ex-Faurecia, unidade Limeira/SP)|websearch|2026-10-25|2026-10-25
+tenneco.com (Tenneco Automotive do Brasil, unidade Cotia/SP)|websearch|2026-10-25|2026-10-25
+Garcia Gastronomia Industrial (Ribeirão Preto/SP)|websearch|2026-10-25|2026-10-25
+Johnson Controls do Brasil (unidade Sorocaba/SP - fábrica de baterias)|websearch|2026-10-25|2026-10-25
+Iharabras S.A. Indústrias Químicas (Sorocaba/SP) - fora do ICP fixo (agroquímicos/defensivos, não é alimentos nem peças), descartado|websearch|2026-10-25|2026-10-25
+JBS/Friboi - Centro de Distribuição Indaiatuba/SP - JÁ CONHECIDO em leads_conhecidos.csv (Fernando Melo, JBS SP), não reconsiderar como lead|websearch|2026-10-25|2026-10-25

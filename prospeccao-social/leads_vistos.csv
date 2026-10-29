@@ -42,7 +42,7 @@ alfredo.genovese@marelli.com|kipflow|2026-07-29|2026-07-29
 rosa@facchini.com.br|kipflow|2026-07-29|2026-07-29
 carlos.chagas@valeo.com|kipflow|2026-07-29|2026-07-29
 adilson.cruz@metal2.com.br|kipflow|2026-07-29|2026-07-29
-gabriel.horta@plascar.com.br|kipflow|2026-07-29|2026-07-29
+gabriel.horta@plascar.com.br|kipflow|2026-07-29|2026-10-29
 gm.com.br|kipflow|2026-07-29|2026-07-29
 gisele.picoloto@cory.com.br|kipflow|2026-07-29|2026-10-07
 sandelehalimentos.com.br|kipflow|2026-07-29|2026-09-24
@@ -571,7 +571,7 @@ dositec.com.br|websearch|2026-09-09|2026-09-09
 Brazilian Foods Industria e Comercio de Alimentos e Temperos Ltda (Segredos D'Avo, sem dominio proprio confirmado)|websearch|2026-09-10|2026-09-10
 adimax.com.br|websearch|2026-09-10|2026-09-18
 dubalimentos.com.br|websearch|2026-09-10|2026-09-10
-arcor.com.br (Bagley do Brasil, planta Campinas)|websearch|2026-09-10|2026-10-07
+arcor.com.br (Bagley do Brasil, planta Campinas)|websearch|2026-09-10|2026-10-29
 unilever.com.br (fabrica Kibon, Valinhos)|websearch|2026-09-10|2026-09-10
 terranuts.com.br|websearch|2026-09-10|2026-09-18
 cheeseonepaodequeijo.com.br|websearch|2026-09-10|2026-09-10
@@ -715,7 +715,7 @@ sinimplantsystem.com.br|websearch|2026-09-24|2026-09-24
 sanmichelelaticinios-saojosedoscampos.com.br (sem domínio institucional confirmado)|websearch|2026-09-24|2026-09-24
 nestle.com.br / purina.com.br (planta Purina PetCare, Ribeirão Preto)|websearch|2026-09-24|2026-10-19
 leardini.com.br (unidade Mairinque)|websearch|2026-09-24|2026-09-24
-cervejariacolorado.com.br|websearch|2026-09-24|2026-09-24
+cervejariacolorado.com.br|websearch|2026-09-24|2026-10-29
 almaromi.com.br|websearch|2026-09-24|2026-09-27
 saborethos.com.br|websearch|2026-09-24|2026-10-05
 hortaleve.com.br|websearch|2026-09-24|2026-09-24
@@ -851,7 +851,7 @@ Frigorífico Rey Charques (sem domínio próprio confirmado)|websearch|2026-10-0
 Frigorífico Frisanta (sem domínio próprio confirmado)|websearch|2026-10-04|2026-10-04
 canaalimentos.com.br|websearch|2026-10-04|2026-10-04
 bebidasipiranga.com.br|websearch|2026-10-04|2026-10-04
-nutricin.com.br|websearch|2026-10-04|2026-10-25
+nutricin.com.br|websearch|2026-10-04|2026-10-29
 Roiam Indústria de Produtos Alimentícios (sem domínio próprio confirmado)|websearch|2026-10-04|2026-10-04
 legadousinagem.com.br|websearch|2026-10-05|2026-10-05
 contrests.com.br|websearch|2026-10-05|2026-10-05
@@ -1040,3 +1040,6 @@ jost.com.br|websearch|2026-10-27|2026-10-27
 Kanjiko do Brasil Indústria Automotiva Ltda (Sorocaba/SP, domínio institucional não confirmado nesta busca)|websearch|2026-10-27|2026-10-27
 General Motors do Brasil Ltda (Complexo Industrial São José dos Campos/SP, domínio institucional não confirmado nesta busca)|websearch|2026-10-27|2026-10-27
 P.R.NETTO - Indústria e Comércio de Alimentos Ltda ("Netto Alimentos", Araçariguama/SP)|websearch|2026-10-28|2026-10-28
+Burgman Beer Microcervejaria (Sorocaba/SP) - sócio-administrador Paulo Roberto Bazzo via CNPJ, telefone/e-mail mascarados no cadastro público, sem canal viável|websearch|2026-10-29|2026-10-29
+SLV Plásticos (Campinas/SP) - 251-500 funcionários via diretório, sem site/telefone/decisor localizável|websearch|2026-10-29|2026-10-29
+FEMAQ Piracicaba - não localizada, resultado retornou empresa homônima errada, descartado por dado não confiável|websearch|2026-10-29|2026-10-29

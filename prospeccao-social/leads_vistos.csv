@@ -1,11 +1,11 @@
 Perfil (URL)|Rede|Primeira vez visto (data)|Última vez visto (data)
 https://www.linkedin.com/in/ACoAAAj6fWsBtDEFXpe2l1ynHZe2MVG0TVN0pYU|linkedin|2026-07-20|2026-08-17
 https://www.linkedin.com/in/ACoAACRxJlIB99ydyLGuKnAeP50yOycC8hn1w7M|linkedin|2026-07-20|2026-08-17
-https://www.linkedin.com/in/ACoAAAH9m8MBBavZtONSjMG-kOT_VVQ9Gnr3-X0|linkedin|2026-07-20|2026-08-09
+https://www.linkedin.com/in/ACoAAAH9m8MBBavZtONSjMG-kOT_VVQ9Gnr3-X0|linkedin|2026-07-20|2026-11-09
 https://www.linkedin.com/in/ACoAACJ_A4EBsrj61-RxyV99UjB8yPX7Pbip7gQ|linkedin|2026-07-20|2026-10-10
 https://www.linkedin.com/in/ACoAAAp5BjQBblFxnZyHrNYY75F4E_2K1E4wLzQ|linkedin|2026-07-20|2026-08-17
 https://www.linkedin.com/in/ACoAACLip78BGcocPvBemC-YDHXN5WFUMKYeLVY|linkedin|2026-07-20|2026-08-09
-https://www.linkedin.com/in/ACoAAB5ug_YB1vc3_KtAbSjhM_7yoA3yHRnwT5I|linkedin|2026-07-20|2026-08-07
+https://www.linkedin.com/in/ACoAAB5ug_YB1vc3_KtAbSjhM_7yoA3yHRnwT5I|linkedin|2026-07-20|2026-11-09
 https://www.linkedin.com/in/ACoAAC2Oek8BvurN-VCaASS8vOmTY8x9yU9y1ok|linkedin|2026-07-20|2026-07-20
 https://www.linkedin.com/in/ACoAAC3Ddo0B5_Kb80jawTcX2MPJB6BhUZbAhEw|linkedin|2026-07-20|2026-07-20
 https://www.linkedin.com/in/ACoAADPj8qEB0mg_LaOr0utsU18aL5ZVIv9alFs|linkedin|2026-07-20|2026-07-20
@@ -232,7 +232,7 @@ saboremiorefeicoes.com.br|websearch|2026-08-17|2026-09-07
 reiabrasivos.com.br|websearch|2026-08-17|2026-08-17
 skf.com.br|websearch|2026-08-17|2026-08-17
 grupoimpper.com.br|websearch|2026-08-17|2026-08-17
-zingabr.com|websearch|2026-08-17|2026-11-07
+zingabr.com|websearch|2026-08-17|2026-11-09
 metalpoli.com.br|websearch|2026-08-17|2026-10-03
 cervejariacampinas.com.br|websearch|2026-08-17|2026-08-17
 tks.ind.br|websearch|2026-08-17|2026-09-22
@@ -493,7 +493,7 @@ cafeutam.com.br|websearch|2026-09-05|2026-09-21
 jomil.com.br|websearch|2026-09-05|2026-10-04
 atomplast.com.br|websearch|2026-09-05|2026-09-14
 mhauto.com.br|websearch|2026-09-05|2026-09-05
-projetarind.com|websearch|2026-09-05|2026-09-05
+projetarind.com|websearch|2026-09-05|2026-11-09
 Reis Comercio e Industria Metalurgica Ltda (Guarulhos, CNPJ 49.081.128/0003-88)|websearch|2026-09-05|2026-09-05
 ffusinagem.com.br|websearch|2026-09-05|2026-09-15
 Cromorib Galvanoplastia Ltda - ME (Ribeirao Preto)|websearch|2026-09-05|2026-09-05
@@ -1034,7 +1034,7 @@ John Deere Brasil (fábricas Indaiatuba/SP)|websearch|2026-10-26|2026-10-26
 CNH Industrial / Case IH (fábrica Sorocaba/SP) - Adriano Gandra citado em 2018, desatualizado, não usado|websearch|2026-10-26|2026-10-26
 Caterpillar Brasil (fábrica Piracicaba/SP) - telefone institucional (19) 2106-2100 confirmado|websearch|2026-10-26|2026-10-26
 Valtra do Brasil / AGCO (fábrica Mogi das Cruzes/SP)|websearch|2026-10-26|2026-10-26
-Mogiana Alimentos S.A. / Guabi / BRF Pet (unidade Campinas/SP)|websearch|2026-10-26|2026-10-26
+Mogiana Alimentos S.A. / Guabi / BRF Pet (unidade Campinas/SP)|websearch|2026-10-26|2026-11-09
 Sodexo do Brasil Comercial S.A. (cozinhas industriais Indaiatuba/Itatiba-SP)|websearch|2026-10-26|2026-10-26
 jost.com.br|websearch|2026-10-27|2026-10-27
 Kanjiko do Brasil Indústria Automotiva Ltda (Sorocaba/SP, domínio institucional não confirmado nesta busca)|websearch|2026-10-27|2026-10-27
@@ -1067,21 +1067,30 @@ F M Indústria e Comércio de Peças para Máquinas Agrícolas Ltda (Ribeirão P
 Ceratti Indústria de Alimentos (Vinhedo/SP) - fabricante de embutidos/frios (salame, presunto, carnes especiais), fábrica moderna, 501-1000 funcionários, domínio ceratti.com.br, telefones (19) 3836-6300 e 0800 771 2822 confirmados, decisor não identificado|websearch|2026-11-05|2026-11-05
 Americana Metais (fundição sob medida) (Americana/SP) - fundição ativa para mineração/papel e celulose/ferroviário/máquinas e equipamentos/agronegócio/automotivo/construção civil/saneamento, domínio americanametais.com.br confirmado via fetch direto, e-mail comercial@americanametais.com.br e telefone (19) 3478-1813 confirmados, decisor não identificado|websearch|2026-11-07|2026-11-07
 BERGERTEC - Indústria e Comércio de Peças Automotivas Ltda (Indaiatuba/SP) - fabricante de chassis automotivos + usinagem/torneiria/solda, CNPJ ativo desde 2008, decisor nomeado (Flavio Brandimarti Berger, sócio-administrador) via registro público CNPJ, telefone (15) 3326-0371 confirmado, e-mail disponível é de contabilidade terceirizada (não usado)|websearch|2026-11-07|2026-11-07
-Legado Usinagem Ltda (São José dos Campos/SP) - usinagem/estamparia/ferramentaria, confirmada via página oficial no LinkedIn e registros judiciais públicos (TJSP), sem CNPJ/telefone/e-mail localizados|websearch|2026-11-07|2026-11-07
+Legado Usinagem Ltda (São José dos Campos/SP) - usinagem/estamparia/ferramentaria, confirmada via página oficial no LinkedIn e registros judiciais públicos (TJSP), sem CNPJ/telefone/e-mail localizados|websearch|2026-11-07|2026-11-09
 Kispel Foods (São Paulo capital/SP) - importação/produção/distribuição de alimentos (palmito, azeitonas, conservas, atum) para food service e varejo, domínio kispelfoods.com.br confirmado via fetch direto, e-mail contato@kispelfoods.com.br e telefone (11) 2355-2051 confirmados, decisor não identificado|websearch|2026-11-07|2026-11-07
 FBR Fábrica de Bebidas Ribeirão Ltda "Cerveja Ribeirão" (Batatais/SP) - cervejaria ativa desde 2021, domínio cervejaribeirao.com.br confirmado via registro público CNPJ, decisora nomeada (Leticia de Nadai Biagi Borges, sócia-administradora), e-mail contato@cervejaribeirao.com.br e telefone (16) 8120-4000 confirmados|websearch|2026-11-07|2026-11-07
-https://www.linkedin.com/in/ACoAAAZYA8YBiVgRc5R4GgSf7FpiZ4LEHPitwEc|linkedin|2026-11-08|2026-11-08
+https://www.linkedin.com/in/ACoAAAZYA8YBiVgRc5R4GgSf7FpiZ4LEHPitwEc|linkedin|2026-11-08|2026-11-09
 https://www.linkedin.com/in/ACoAACZysP4BVGNgiEVu_F9mcmonHBBRAKIS8DM|linkedin|2026-11-08|2026-11-08
 https://www.linkedin.com/in/ACoAAD6ezpIBHRLlNOXuPhp_4TCgLijAVHfPLmQ|linkedin|2026-11-08|2026-11-08
 https://www.linkedin.com/in/ACoAAAUqfE4BSKXhufUVAbyhwQRn3ZIY-8Gwj58|linkedin|2026-11-08|2026-11-08
 https://www.linkedin.com/in/ACoAAC8vkLUB8yLPgYQ350vrt_mtCb-LbBzO3L8|linkedin|2026-11-08|2026-11-08
 https://www.linkedin.com/in/ACoAACf5IhEBJNnKZ9D_lsp59iI0BSJox7Kk0Uc|linkedin|2026-11-08|2026-11-08
-https://www.linkedin.com/in/ACoAAAdSNzkB6Y_XVNlszn3GpU2vIwQo8dntOfw|linkedin|2026-11-08|2026-11-08
+https://www.linkedin.com/in/ACoAAAdSNzkB6Y_XVNlszn3GpU2vIwQo8dntOfw|linkedin|2026-11-08|2026-11-09
 https://www.linkedin.com/in/ACoAACYnZ4kB6wOEKkjDC3CKoAuwoOfh5v-A_qk|linkedin|2026-11-08|2026-11-08
 https://www.linkedin.com/in/ACoAAAZPW_QB9qHN0WNOXgsO3DIkmLKcTMKpDB0|linkedin|2026-11-08|2026-11-08
-https://www.linkedin.com/in/ACoAABm8iEwBNB_-aIhZgfh1TpXxg4kgTUY7c1w|linkedin|2026-11-08|2026-11-08
+https://www.linkedin.com/in/ACoAABm8iEwBNB_-aIhZgfh1TpXxg4kgTUY7c1w|linkedin|2026-11-08|2026-11-09
 https://www.linkedin.com/in/ACoAAB8FO20BQLE9T4QtQhs7LT0uNU-K4x7vsmU|linkedin|2026-11-08|2026-11-08
 https://www.linkedin.com/in/ACwAAAQH42oBYgWZx6GVjDEDasj7q86E2bWyuLc|linkedin|2026-11-08|2026-11-08
 https://www.linkedin.com/in/ACwAAAckFH8BoDaMStJNowThTxtdxN_GWDQoZKY|linkedin|2026-11-08|2026-11-08
 https://www.linkedin.com/in/ACwAAAUL1UgBZHEltJW68rKrGdQTIVAAZX7rzQw|linkedin|2026-11-08|2026-11-08
-https://www.linkedin.com/in/ACoAAGLUMAABBunET8SuDypeCqHYr5-6vvVT1d4|linkedin|2026-11-08|2026-11-08
+https://www.linkedin.com/in/ACoAAGLUMAABBunET8SuDypeCqHYr5-6vvVT1d4|linkedin|2026-11-08|2026-11-09
+https://www.instagram.com/recyclagelimpeza/|instagram|2026-11-09|2026-11-09
+https://www.linkedin.com/in/ACoAAATtdgEBF3F2uxr4wOHToxS5eczUqE32s60|linkedin|2026-11-09|2026-11-09
+https://www.linkedin.com/in/nat%C3%A1lia-giora-74a54350|linkedin|2026-11-09|2026-11-09
+https://www.linkedin.com/in/cicero-jobson-84085b230|linkedin|2026-11-09|2026-11-09
+https://www.linkedin.com/in/gustavo-gozzi-02684967|linkedin|2026-11-09|2026-11-09
+usimaza.com.br|linkedin|2026-11-09|2026-11-09
+mecstamp.com.br (sem site confirmado - CNPJ 05.804.780/0001-46)|websearch|2026-11-09|2026-11-09
+Industria de Gelo Santo Antonio / Kassu Gelo - CNPJ 55.717.151/0001-57 (Campinas/SP)|websearch|2026-11-09|2026-11-09
+cassini.com.br|linkedin|2026-11-09|2026-11-09

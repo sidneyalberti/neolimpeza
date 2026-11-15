@@ -29,5 +29,16 @@
     {"nome": "SIMABESP (Sind. Ind. de Massas Alimentícias e Biscoitos/SP)", "tipo": "Associação patronal (alimentos, estadual)", "site": "simabesp.org.br", "linkedin": "linkedin.com/company/simabesp", "instagram": "not found", "evidencia": "Existe desde 1941, Av. Paulista 1754 (site institucional)"},
     {"nome": "APL Metalmecânico de Sorocaba", "tipo": "Arranjo produtivo local (metal-mecânico regional)", "site": "aplmetalsorocaba.com", "linkedin": "linkedin.com/in/apl-metalmecânico-sorocaba (página estilo perfil pessoal, não página de empresa padrão)", "instagram": "not found", "evidencia": "24 empresas da RM Sorocaba; 41% das indústrias de Sorocaba ligadas ao setor metalmecânico (Agência Sorocaba/Jornal Z Norte)"},
     {"nome": "Sindicato dos Metalúrgicos do ABC", "tipo": "Sindicato de trabalhadores (não patronal) - sinal regional para peças/metal, não canal de prospecção direta de decisores", "site": "not found", "linkedin": "not found", "instagram": "@sindmetalabc", "evidencia": "Perfil do Instagram encontrado diretamente nos resultados de busca"}
-  ]
+  ],
+  "candidatos_novos_2026-11-15": {
+    "descricao": "Rodada de 2026-11-15 bloqueada antes de qualquer enriquecimento: Apify com cota mensal do Free plan esgotada (erro 'actor-disabled', $5,00 usados) e Kipflow com saldo insuficiente (HTTP 402 INSUFFICIENT_BALANCE em chamada real de teste). WebFetch direto a sites institucionais também bloqueado pela política de rede desta sessão de nuvem (ENOTFOUND para domínios fora da allowlist, testado em tecplas.com.br, ds.ind.br e cargill.com.br). Candidatos abaixo vieram só de WebSearch real (sem Apify/Kipflow), sem confirmação de domínio/contato - NÃO são leads, guardar para a próxima rodada com infraestrutura restaurada.",
+    "alimentos": [
+      {"nome": "Doces da Rebeka", "cidade": "São José dos Campos (nova unidade; fábrica atual em Jacareí)", "site": "not found in search", "evidencia": "Investimento de R$11 milhões, nova operação com início previsto a partir de outubro/2026; empresa se apresenta como maior fábrica de pudins do mundo em volume (sjc.sp.gov.br, notícias de maio e agosto/2026)"}
+    ],
+    "pecas": [
+      {"nome": "Tecplas Indústria e Comércio Ltda", "cidade": "São José dos Campos", "site": "tecplas.com.br (não confirmado diretamente pela empresa, só por diretórios ZoomInfo/DunsGuide)", "evidencia": "Fabricante de peças plásticas fundada em 1986, atende setor aeroespacial (cliente Embraer citado), 11-50 funcionários (ZoomInfo, DunsGuide)"},
+      {"nome": "Emteq do Brasil Indústria e Comércio de Peças para Sistemas de Iluminação", "cidade": "São José dos Campos (Jardim das Indústrias, Rodovia Presidente Dutra)", "site": "not found in search", "evidencia": "Listada em diretório (Página Amarela) como fabricante de peças para sistemas de iluminação; não confirmado se é a mesma Emteq Inc. (Wisconsin/EUA) com escritório de design"},
+      {"nome": "Parts & Tools Indústria e Comércio de Peças Ltda - Norma Din", "cidade": "Ribeirão Preto (Av. Brasil, 1.909, Vila Carvalho)", "site": "not found in search", "telefone": "(16) 3515-8700", "evidencia": "Metalúrgica, fabricação de trefilados de metal exceto padronizados (diretório Solutudo); CNPJ 00.359.084/0001-54 citado para busca em registros oficiais"}
+    ]
+  }
 }

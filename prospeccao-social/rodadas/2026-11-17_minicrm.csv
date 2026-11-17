@@ -1,0 +1,9 @@
+Nome;Sobrenome;Empresa;Cargo;Email;Telefone;Celular;LinkedIn;Temperatura;Fonte;Etapa;Notas
+Não identificado;;SANY Brasil Manufacturing Ltda;Decisor não identificado / Indústria de peças e máquinas pesadas (fabricação local de escavadeiras e veículos comerciais);Não encontrado;Não encontrado;Não encontrado;Não encontrado;Frio;WebSearch;;"Motivo de inclusão: Segmento (ICP frio ""indústria de peças"", nova fábrica de 350.000 m² em Campinas/SP, CNPJ 67.143.157/0001-47, Av. Mercedes Benz 679, Distrito Industrial, ativa desde 03/06/2026, ~200 empregos diretos). Sem canal viável para redigir mensagem - nenhum decisor, telefone ou e-mail confirmado após busca extensiva via WebSearch; Apify e Kipflow indisponíveis nesta rodada (cota/saldo esgotados)."
+Não identificado;;Coco Leve;Decisor não identificado / Indústria de alimentos - bebidas à base de água de coco;Não encontrado;11971099688;Não encontrado;Não encontrado;Morno;WebSearch;;"Motivo de inclusão: Segmento (ICP frio ""indústria de alimentos"", nova fábrica UNIGE em Campo Limpo Paulista/SP, investimento de R$20 milhões, +200 funcionários, ~60% de market share em água de coco). Canal escolhido: WhatsApp/telefone candidato (fonte ZoomInfo, não confirmado diretamente pela empresa).
+
+--- Variação 1 ---
+Oi! Vi que a Coco Leve inaugurou a nova fábrica em Campo Limpo Paulista - parabéns pelo crescimento. Sou da Neolimpeza, distribuidora exclusiva da linha Eco Renova de limpeza industrial, e trabalho com o HPC Cleaner, pensado pra linha de produção de alimentos e bebidas. Quero te mostrar o produto numa demonstração gratuita - topa marcar um horário essa semana?
+
+--- Variação 2 ---
+Olá! Sou da Neolimpeza (distribuidora exclusiva Eco Renova). Água de coco exige sanitização pesada e constante na linha de envase - quero propor um piloto gratuito do nosso HPC Cleaner pra fábrica nova de vocês em Campo Limpo Paulista, sem compromisso. Tem um tempinho pra conversar?"

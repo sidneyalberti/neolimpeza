@@ -510,7 +510,7 @@ bjp.ind.br|websearch|2026-09-06|2026-09-06
 cpovos.com.br|websearch|2026-09-06|2026-09-24
 heinekenbrasil.com.br (unidade Jacareí)|websearch|2026-09-06|2026-09-06
 festpanind.com.br (unidade Jacareí)|websearch|2026-09-06|2026-09-06
-shibata.com.br (nova fábrica Caçapava)|websearch|2026-09-06|2026-09-06
+shibata.com.br (nova fábrica Caçapava)|websearch|2026-09-06|2026-11-19
 Du Porto Indústria Alimentícia Ltda (Porto Feliz, sem domínio próprio confirmado)|websearch|2026-09-06|2026-09-06
 VZ Indústria de Alimentos Importação e Exportação Ltda (Cravinhos, sem domínio próprio confirmado)|websearch|2026-09-06|2026-09-06
 Central Mix Importação e Exportação - Indústria de Alimentos Ltda / Primmor (Cravinhos, sem domínio próprio confirmado)|websearch|2026-09-06|2026-09-06
@@ -655,7 +655,7 @@ induscor.ind.br|websearch|2026-09-20|2026-09-21
 usiwal.com.br|websearch|2026-09-20|2026-09-20
 gelatoborelli.com.br|websearch|2026-09-20|2026-09-20
 adko.com.br|websearch|2026-09-20|2026-09-24
-doceriadarebeka.com.br|websearch|2026-09-20|2026-09-23
+doceriadarebeka.com.br|websearch|2026-09-20|2026-11-19
 coapis.com.br|websearch|2026-09-20|2026-09-20
 balmel.com.br|websearch|2026-09-20|2026-09-20
 elitepan.com.br|websearch|2026-09-20|2026-09-22
@@ -989,7 +989,7 @@ PHINIA Delphi Brasil Ltda (Piracicaba/SP) - Giovani Benato, Diretor-Geral|websea
 Mubea do Brasil Ltda (Taubaté/SP)|websearch|2026-10-17|2026-10-17
 Autocom Componentes Automotivos do Brasil Ltda - CIE Automotive (Taubaté/SP)|websearch|2026-10-17|2026-10-17
 thyssenkrupp Springs & Stabilizers Brasil (Vila Arapuá, São Paulo capital) - Alessandro Domingues Alves, CEO Brasil|websearch|2026-10-18|2026-10-20
-YAPP Automotive Systems do Brasil (Americana/SP)|websearch|2026-10-18|2026-10-20
+YAPP Automotive Systems do Brasil (Americana/SP)|websearch|2026-10-18|2026-11-19
 Arthur Klink Metalúrgica Ltda (Sorocaba/SP)|websearch|2026-10-19|2026-10-19
 Garrett Advancing Motion Indústria Automotiva Ltda - ex-Honeywell Turbo Technologies (Guarulhos/SP)|websearch|2026-10-19|2026-10-19
 Paes Indústria Metalmecânica Ltda - CNPJ 20.013.018/0001-35 (Sorocaba/SP)|websearch|2026-10-19|2026-10-19
@@ -1016,8 +1016,8 @@ Vigor Alimentos S.A. - já conhecido em leads_conhecidos.csv (Alexandre Lemos Pi
 Santa Helena Indústria de Alimentos S/A (Ribeirão Preto) - já conhecido em leads_conhecidos.csv (Denis Vaneti, Claudio Demarche, João Baffini)|websearch|2026-10-23|2026-10-23
 UFT (usinagem, São José dos Campos) - sem dado verificável, descartado|websearch|2026-10-23|2026-10-23
 Zanini S/A Equipamentos Pesados (Sertãozinho) - indícios de recuperação judicial/encerramento, descartado|websearch|2026-10-23|2026-10-23
-Avibras (Jacareí/São José dos Campos) - recuperação judicial, risco operacional, descartado|websearch|2026-10-23|2026-10-23
-CAOA Chery (planta Jacareí) - indícios de fechamento/desativação da fábrica, descartado|websearch|2026-10-23|2026-10-23
+Avibras (Jacareí/São José dos Campos) - recuperação judicial, risco operacional, descartado|websearch|2026-10-23|2026-11-19
+CAOA Chery (planta Jacareí) - indícios de fechamento/desativação da fábrica, descartado|websearch|2026-10-23|2026-11-19
 Panasonic Automotive (região São José dos Campos/Jacareí) - presença de unidade não confirmada, descartado|websearch|2026-10-23|2026-10-23
 Johnson Controls (região São José dos Campos/Jacareí) - presença de unidade não confirmada, descartado|websearch|2026-10-23|2026-10-23
 Dana Incorporated do Brasil Ltda (Divisão Brevini, unidade Limeira/SP) - Luis Gehringer, Gerente-Geral e Diretor Brasil|websearch|2026-10-24|2026-10-30
@@ -1055,7 +1055,10 @@ Ultrachef (Campinas/SP) - decisor não identificado, domínio não localizado, s
 NORD Drivesystems Brasil Ltda (Guarulhos/SP) - decisor não identificado, domínio nord.com confirmado, telefone comercial 1124028855 confirmado via site oficial, e-mail institucional genérico info.br@nord.com|websearch|2026-11-03|2026-11-03
 Gardner Denver Nash Brasil Indústria e Comércio de Bombas Ltda (Campinas/SP) - decisor não identificado, domínio não localizado, telefone comercial 01937658000 confirmado via registro CNPJ|websearch|2026-11-03|2026-11-03
 Sumitomo Indústrias Pesadas do Brasil Ltda / Sumitomo Drive Technologies (Itu/SP) - decisor não identificado, domínio brazil.sumitomodrive.com confirmado, telefone comercial 1144039292 confirmado, e-mail institucional genérico shib.vendas@shi-g.com|websearch|2026-11-03|2026-11-03
-Valmet Flow Control Ltda (Sorocaba/SP) - domínio valmet.com confirmado, telefone comercial (15) 2102-9713 confirmado via registro CNPJ, decisor Fabio Maia (VP Flow Control América Latina) com e-mail pessoal fabio.maia@valmet.com confirmado via release oficial Valmet|websearch|2026-11-04|2026-11-04
+Valmet Flow Control Ltda (Sorocaba/SP) - domínio valmet.com confirmado, telefone comercial (15) 2102-9713 confirmado via registro CNPJ, decisor Fabio Maia (VP Flow Control América Latina) com e-mail pessoal fabio.maia@valmet.com confirmado via release oficial Valmet|websearch|2026-11-04|2026-11-19
+Nexiqon (São José dos Campos/SP) - fábrica que transforma resíduos industriais em materiais de construção civil, fora do ICP (não é alimentos nem peças), descartado|websearch|2026-11-19|2026-11-19
+Grupo EBEG (embalagens, Ribeirão Preto/SP) - fabricante de embalagens (fornecedor de terceiros, não é ele próprio indústria de alimentos/peças), fora do ICP, descartado|websearch|2026-11-19|2026-11-19
+Syngenta (Indaiatuba/SP) - agroquímicos/defensivos agrícolas, fora do ICP (não é alimentos nem peças), descartado|websearch|2026-11-19|2026-11-19
 Castelo Alimentos S/A (Jundiaí/SP) - domínio casteloalimentos.com.br citado via cnpja.com (não confirmado por fetch direto), telefones comerciais (11) 4589-7070 e (11) 4589-7088 confirmados, e-mail institucional genérico castelo@casteloalimentos.com.br, decisor não identificado|websearch|2026-11-04|2026-11-04
 UFI Filters do Brasil (Jundiaí/SP) - decisor não identificado (nome citado em fonte de 2022 não usado por risco de estar desatualizado), domínio global ufifilters.com confirmado, sem telefone/e-mail BR localizado|websearch|2026-11-04|2026-11-04
 Technifilter (Campinas/SP) - decisor não identificado, domínio não localizado, telefone parcialmente mascarado em diretório B2B (não usável)|websearch|2026-11-04|2026-11-04

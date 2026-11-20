@@ -194,7 +194,7 @@ servmetal.com.br|websearch|2026-08-14|2026-10-07
 allferusinagem.com.br|websearch|2026-08-14|2026-08-14
 mjcusinagem.com.br|websearch|2026-08-14|2026-10-05
 winnstal.com.br|websearch|2026-08-14|2026-09-17
-axone.com.br|websearch|2026-08-14|2026-11-13
+axone.com.br|websearch|2026-08-14|2026-11-20
 renovaindustria.com.br|websearch|2026-08-14|2026-10-05
 metalurgicaatila.ind.br|websearch|2026-08-14|2026-10-05
 aveccampinas.com.br|websearch|2026-08-14|2026-08-14
@@ -1039,7 +1039,7 @@ Sodexo do Brasil Comercial S.A. (cozinhas industriais Indaiatuba/Itatiba-SP)|web
 jost.com.br|websearch|2026-10-27|2026-10-27
 Kanjiko do Brasil Indústria Automotiva Ltda (Sorocaba/SP, domínio institucional não confirmado nesta busca)|websearch|2026-10-27|2026-10-27
 General Motors do Brasil Ltda (Complexo Industrial São José dos Campos/SP, domínio institucional não confirmado nesta busca)|websearch|2026-10-27|2026-10-27
-P.R.NETTO - Indústria e Comércio de Alimentos Ltda ("Netto Alimentos", Araçariguama/SP)|websearch|2026-10-28|2026-10-28
+"P.R.NETTO - Indústria e Comércio de Alimentos Ltda (""Netto Alimentos"", Araçariguama/SP)"|websearch|2026-10-28|2026-10-28
 Burgman Beer Microcervejaria (Sorocaba/SP) - sócio-administrador Paulo Roberto Bazzo via CNPJ, telefone/e-mail mascarados no cadastro público, sem canal viável|websearch|2026-10-29|2026-10-29
 SLV Plásticos (Campinas/SP) - 251-500 funcionários via diretório, sem site/telefone/decisor localizável|websearch|2026-10-29|2026-11-05
 FEMAQ Piracicaba - não localizada, resultado retornou empresa homônima errada, descartado por dado não confiável|websearch|2026-10-29|2026-10-29
@@ -1063,7 +1063,7 @@ Castelo Alimentos S/A (Jundiaí/SP) - domínio casteloalimentos.com.br citado vi
 UFI Filters do Brasil (Jundiaí/SP) - decisor não identificado (nome citado em fonte de 2022 não usado por risco de estar desatualizado), domínio global ufifilters.com confirmado, sem telefone/e-mail BR localizado|websearch|2026-11-04|2026-11-04
 Technifilter (Campinas/SP) - decisor não identificado, domínio não localizado, telefone parcialmente mascarado em diretório B2B (não usável)|websearch|2026-11-04|2026-11-04
 Progefiltros (São José dos Campos/SP) - decisor não identificado, domínio não localizado, sem telefone/e-mail, endereço confirmado via diretório ohub.com.br|websearch|2026-11-04|2026-11-04
-Aromatech Indústria e Comércio de Aditivos Alimentícios Ltda ("Innovataste") (Hortolândia/SP) - decisor não identificado, domínio innovataste.com.br citado via cnpja.com (não confirmado por fetch direto), telefone comercial (19) 3819-8275 confirmado via cnpja.com, Fit Baixo (microempresa)|websearch|2026-11-04|2026-11-04
+"Aromatech Indústria e Comércio de Aditivos Alimentícios Ltda (""Innovataste"") (Hortolândia/SP) - decisor não identificado, domínio innovataste.com.br citado via cnpja.com (não confirmado por fetch direto), telefone comercial (19) 3819-8275 confirmado via cnpja.com, Fit Baixo (microempresa)"|websearch|2026-11-04|2026-11-04
 Zanini Renk Equipamentos Industriais Ltda (Cravinhos/SP) - fabricante de redutores de velocidade/caixas de engrenagens industriais, CNPJ ativo desde 2005 (fundada em 1976), telefone comercial (16) 3518-9044 confirmado, domínio zaninirenk.com.br citado por terceiros (não confirmado por fetch direto), decisor não identificado|websearch|2026-11-05|2026-11-05
 Sandvik Coromant do Brasil Indústria e Comércio de Ferramentas Ltda (Jundiaí/SP) - fabricante de ferramentas de corte industrial, CNPJ ativo desde 1970, telefone comercial (11) 5660-3610 confirmado via registro CNPJ, Centro de Tecnologia inaugurado em 2019, decisor não identificado (nome citado em fonte de 2023 não usado por risco de estar desatualizado)|websearch|2026-11-05|2026-11-05
 F M Indústria e Comércio de Peças para Máquinas Agrícolas Ltda (Ribeirão Preto/SP) - CNPJ ativo, EPP desde 1984, endereço confirmado, sem telefone/site/decisor localizados|websearch|2026-11-05|2026-11-05
@@ -1072,7 +1072,7 @@ Americana Metais (fundição sob medida) (Americana/SP) - fundição ativa para 
 BERGERTEC - Indústria e Comércio de Peças Automotivas Ltda (Indaiatuba/SP) - fabricante de chassis automotivos + usinagem/torneiria/solda, CNPJ ativo desde 2008, decisor nomeado (Flavio Brandimarti Berger, sócio-administrador) via registro público CNPJ, telefone (15) 3326-0371 confirmado, e-mail disponível é de contabilidade terceirizada (não usado)|websearch|2026-11-07|2026-11-07
 Legado Usinagem Ltda (São José dos Campos/SP) - usinagem/estamparia/ferramentaria, confirmada via página oficial no LinkedIn e registros judiciais públicos (TJSP), sem CNPJ/telefone/e-mail localizados|websearch|2026-11-07|2026-11-09
 Kispel Foods (São Paulo capital/SP) - importação/produção/distribuição de alimentos (palmito, azeitonas, conservas, atum) para food service e varejo, domínio kispelfoods.com.br confirmado via fetch direto, e-mail contato@kispelfoods.com.br e telefone (11) 2355-2051 confirmados, decisor não identificado|websearch|2026-11-07|2026-11-07
-FBR Fábrica de Bebidas Ribeirão Ltda "Cerveja Ribeirão" (Batatais/SP) - cervejaria ativa desde 2021, domínio cervejaribeirao.com.br confirmado via registro público CNPJ, decisora nomeada (Leticia de Nadai Biagi Borges, sócia-administradora), e-mail contato@cervejaribeirao.com.br e telefone (16) 8120-4000 confirmados|websearch|2026-11-07|2026-11-07
+"FBR Fábrica de Bebidas Ribeirão Ltda ""Cerveja Ribeirão"" (Batatais/SP) - cervejaria ativa desde 2021, domínio cervejaribeirao.com.br confirmado via registro público CNPJ, decisora nomeada (Leticia de Nadai Biagi Borges, sócia-administradora), e-mail contato@cervejaribeirao.com.br e telefone (16) 8120-4000 confirmados"|websearch|2026-11-07|2026-11-07
 https://www.linkedin.com/in/ACoAAAZYA8YBiVgRc5R4GgSf7FpiZ4LEHPitwEc|linkedin|2026-11-08|2026-11-12
 https://www.linkedin.com/in/ACoAACZysP4BVGNgiEVu_F9mcmonHBBRAKIS8DM|linkedin|2026-11-08|2026-11-12
 https://www.linkedin.com/in/ACoAAD6ezpIBHRLlNOXuPhp_4TCgLijAVHfPLmQ|linkedin|2026-11-08|2026-11-08
@@ -1272,3 +1272,6 @@ FKB Industria de Equipamentos Ltda (CNPJ 03.971.113/0001-22, Guararema/SP)|webse
 Retenfix Indústria e Comércio de Vedações Hidráulicas, Pneumáticas e Acessórios Industriais Ltda (CNPJ 14.579.276/0001-80, Campinas/SP)|websearch|2026-11-18|2026-11-18
 secotools.com (Seco Tools Indústria e Comércio Ltda, Sorocaba/SP)|websearch|2026-11-18|2026-11-18
 iscar.com (Iscar do Brasil Comercial Ltda, Vinhedo/SP)|websearch|2026-11-18|2026-11-18
+metso.com (Metso Brasil Ind. e Comércio Ltda, Sorocaba/SP)|websearch|2026-11-20|2026-11-20
+fastplas.com.br (Fastplas Automotive Ltda, Sorocaba/SP)|websearch|2026-11-20|2026-11-20
+Tormep Tornearia Mecânica de Precisão Ltda (Campinas/SP)|websearch|2026-11-20|2026-11-20
